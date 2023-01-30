@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi👋 I'm Tushar Gandhi
 
 <!--
 **Tushargandhi07/Tushargandhi07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
