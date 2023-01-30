@@ -29,3 +29,9 @@
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
   <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> 
   
+  
+  <h3>GitHub's Stats</h3>
+
+<p>
+<img  src="https://github-readme-stats.vercel.app/api?username=Tushargandhi07&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" height="139"/><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushargandhi07&layout=compact&border_radius=0" height="139" />
+</p>
