@@ -44,6 +44,8 @@
   
   <h3>GitHub's Stats</h3>
 
-<p>
-<img  src="https://github-readme-stats.vercel.app/api?username=Tushargandhi07&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" height="139"/><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tushargandhi07&layout=compact&border_radius=0" height="139" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tushargandhi07&show_icons=true&locale=en&layout=compact" alt="tusharstats" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Tushargandhi07&show_icons=true&locale=en" alt="tusharstats" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Tushargandhi07&" alt="tusharstats" /></p>
