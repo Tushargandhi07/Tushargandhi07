@@ -11,8 +11,9 @@
 
 
 </br>
+
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=tushargandhi07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Tushargandhi07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <br/>
 <br/>
