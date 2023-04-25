@@ -6,8 +6,12 @@
 
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
 
+<br>
 <!-- deivder -->
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
+
+<br>
+<br>
 
     
 <br><br><br>
@@ -42,13 +46,15 @@
 <img src="https://img.shields.io/badge/Hobby-Coding-yellow" />
 <img src="https://img.shields.io/badge/Programming-JavaScript-yellow" />
 <img src="https://img.shields.io/badge/Language-English%2C%20Hindi-yellow" />
-</p><br>
+</p>
+    <br>
 
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
-
+<br>
+   
 <!-- deivder -->
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-
+<br>
 <br>
   
   <h3><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h3>
@@ -61,10 +67,12 @@
   <a href="mailto:tushargan7@gmail.com"><img src="https://img.shields.io/badge/gmail-d62828?style=for-the-badge&logo=gmail&logoColor=white" alt="CodePen" /></a>&nbsp; 
 <a href="https://drive.google.com/file/d/11dMnwkPYdB6VXPpCgP2P-FLcpXtZtrPe/view?usp=share_link"><img src="https://img.shields.io/badge/Résumé-d62828?style=for-the-badge&logo=researchgate&logoColor=02c39a" alt="Dev.to" /></a>&nbsp;
 </p>
-<br/>
+<br>
 
    <!-- deivder -->
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
+    <br>
+    <br>
   
 <h3><i>💻 Tech Stacks I have worked with:</i></h3>
 <p align="center">
@@ -89,10 +97,12 @@
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="jwt"/>
 </p>
 
-<br/>
+<br>
   
    <!-- deivder -->
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
+    <br>
+    <br>
   
   ## 📊 GitHub Statistics
 <br>
@@ -126,13 +136,18 @@
   
    <!-- deivder -->
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
+    <br>
+    <br>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Tushargandhi07&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
+    
+<br>
   
    <!-- deivder -->
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
+    <br>
+    <br>
 
 ## 📫 Contact Information:
 Email me via <a href="mailto:tushargan7@gmail.com"> tushargan7@gmail.com <br>
