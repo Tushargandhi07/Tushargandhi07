@@ -75,34 +75,66 @@
     <br>
   
 <h3><i>💻 Tech Stacks I have worked with:</i></h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-      alt="javascript" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-      alt="nodejs" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
-      alt="expressjs" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-      alt="mongodb" />
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"
-      alt="postman" />
-  <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"
-      alt="github" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"
-      alt="netlify" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="jwt"/>
-</p>
+<br>
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Skills</th>
+      </tr>
+    </thead>
+    <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/express/express-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"/> </td>
+    </tr>
+    <tr> 
+      <td align="center" width=110>HTML</td>
+      <td align="center" width=110>CSS</td>
+      <td align="center" width=110>JavaScript</td>
+      <td align="center" width=110>Node.js</td>
+      <td align="center" width=110>Express.js</td>
+      <td align="center" width=110>MongoDB</td>
+    </tr>
+  </table>
+
+  <table>
+    <thead>
+      <tr>
+        <th colspan="7">Tools & Libraries </th>
+      </tr>
+    </thead>
+      <tr>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://raw.githubusercontent.com/devicons/devicon/v2.15.1/icons/npm/npm-original-wordmark.svg"/> </td>
+      <td align="center" width=110> <img height=60 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/> </td>
+      <tr align="center">
+        <td align="center" width=110>Heroku</td>
+        <td align="center" width=110>Git</td>
+        <td align="center" width=110>GitHub</td>
+        <td align="center" width=110>Bootstrap</td>
+        <td align="center" width=110>npm</td>
+        <td align="center" width=110>VSCode</td>
+      </tr>
+    </tr>
+  </table>
+</div>
 
 <br>
-  
-   <!-- deivder -->
+<br>
+
+<img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git" />
+
+<!-- deivder -->
 <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px" alt="Git" />
-    <br>
-    <br>
+
+<br><br><br>
   
   ## 📊 GitHub Statistics
 <br>
